@@ -1,0 +1,19 @@
+{
+  "name" : "ORLANDO LAKEFRONT A TINY HOME & RV COMMUNITY",
+  "url" : "http://www.orlandolakefrontth.com/",
+  "phone" : "(407)256-4158",
+  "email" : "orlandolakefrontTH@gmail.com",
+  "address" : "3405 North Orange Blossom Trail Orlando, FL 32804",
+  "lat" : 28.581508,
+  "lon" : -81.406996,
+  "totalSpaces" : 50,
+  "currentlyOccupied" : 17,
+  "lotsForRent" : true,
+  "lotPrice" : "$350 to $600 per month",
+  "tinyForRent" : [
+    {"The Venice" : "http://abnb.me/EVmg/mLORpeBkFD"},
+    {"The Ritz" : "http://abnb.me/EVmg/TSjXKlK1kD"},
+    {"The Bermuda" : "http://abnb.me/EVmg/v7ecolk52C"},
+    {"The Lake house​" : "http://abnb.me/EVmg/tGduAvUkFD"}
+  ]
+}
