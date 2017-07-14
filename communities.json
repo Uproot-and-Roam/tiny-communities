@@ -75,4 +75,29 @@
   "reviews" : [
 
   ]
+},
+{
+  "name" : "The Sanctuary Minnesota",
+  "website" : "http://www.thesanctuaryminnesota.com/",
+  "phone" : "(320) 272-9998",
+  "email" : "thesanctuarymn@centurylink.net",
+  "address" : "2396 Cable St, Ogilvie, MN 56358",
+  "lat" : 45.9440376,
+  "lon" : -93.4743465,
+  "totalSpaces" : 8,
+  "currentlyOccupied" : null,
+  "lotsForRent" : true,
+  "lotPrice" : "$300 per month",
+  "homesForRent" : [
+
+  ],
+  "photos" : [
+
+  ],
+  "people" : [
+
+  ],
+  "reviews" : [
+
+  ]
 }
