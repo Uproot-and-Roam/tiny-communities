@@ -19,6 +19,9 @@
   "photos" : [
 
   ],
+  "people" : [
+
+  ],
   "reviews" : [
 
   ]
@@ -39,6 +42,34 @@
 
   ],
   "photos" : [
+
+  ],
+  "people" : [
+
+  ],
+  "reviews" : [
+
+  ]
+},
+{
+  "name" : "Emerald Village",
+  "website" : "http://www.squareonevillages.org/emerald",
+  "phone" : "(541) 606-4455",
+  "email" : "info@squareonevillages.org",
+  "address" : "458 Blair Blvd., Eugene OR 97402",
+  "lat" : 44.059882,
+  "lon" : -123.111783,
+  "totalSpaces" : 22,
+  "currentlyOccupied" : null,
+  "lotsForRent" : true,
+  "lotPrice" : "$250 to $350 per month",
+  "homesForRent" : [
+
+  ],
+  "photos" : [
+
+  ],
+  "people" : [
 
   ],
   "reviews" : [
